@@ -16,7 +16,7 @@ import="java.util.*, memberone.*" %>
 <link href="style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="script.js"></script>
 
-<script>
+<script type="text/javascript">
 function dongCheck(){
 	if(document.zipForm.dong.value=="") {
 		alert("동이름을 입력하세요");
